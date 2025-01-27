@@ -5,6 +5,7 @@
   overflow: hidden;
   border-radius: 10px;
   position: relative;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
 }
 
 .slider-slide {
