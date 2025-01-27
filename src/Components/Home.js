@@ -2,7 +2,7 @@ import React from 'react'
 import '../Assets/Home.css'
 import Nav from './Nav'
 import Carousel from './Carousel'
-
+import Footer from './FooterContainer'
 const Home = () => {
   return (
     <>
@@ -14,6 +14,7 @@ const Home = () => {
       <div className='slider'>hsdh jhsdbfjk snjkhdfjsn uihuidsnjui</div>
     </div> */}
     <Carousel/>
+    <Footer/>
     </>
   )
 }
